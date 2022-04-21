@@ -1,0 +1,28 @@
+h2{
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 70px;
+}
+
+.imageLogo{
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+.containerAccount{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerButton{
+  margin-top: 60px;
+}
+
+.containerColor{
+  background-color: #ffff;
+  height: 90vh;
+  border-radius: 15px; 
+  padding: 10px;
+  margin: 7%;
+  width: 80%;
+}
